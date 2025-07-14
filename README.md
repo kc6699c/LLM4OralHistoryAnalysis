@@ -10,3 +10,6 @@ Families were given only days to pack, often losing their homes, farms, and busi
 
 One of the most significant preservation efforts is the [Densho Project](https://densho.org), founded in 1995. “Densho,” meaning “to pass on to the next generation,” curates an extensive digital archive of over 900 oral history interviews, ensuring that the voices and experiences of those unjustly incarcerated are preserved and made accessible for future generations.
 
+## Research Design Overview
+<p align="center"> <img src="images/pipeline_overview.png" alt="Annotation and Evaluation Pipeline Overview" width="600"/> </p>
+The figure above illustrates our complete annotation and evaluation pipeline for analyzing Japanese-American incarceration oral histories using large language models (LLMs). This repository provides access to the annotated dataset, prompt templates, model outputs, and evaluation scripts used in our large-scale sentence-level classification and sentiment analysis experiments.
