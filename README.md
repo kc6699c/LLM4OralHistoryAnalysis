@@ -13,3 +13,16 @@ One of the most significant preservation efforts is the [Densho Project](https:/
 ## Research Design Overview
 <p align="center"> <img src="JAIOH.jpg" alt="Annotation and Evaluation Pipeline Overview" width="600"/> </p>
 The figure above illustrates our complete annotation and evaluation pipeline for analyzing Japanese-American incarceration oral histories using large language models (LLMs). This repository provides access to the annotated dataset, prompt templates, model outputs, and evaluation scripts used in our large-scale sentence-level classification and sentiment analysis experiments.
+
+
+## Key Results
+
+Our evaluation highlights the effectiveness of prompt-based large language models in analyzing oral histories at scale. We performed zero-shot, few-shot, and retrieval-augmented prompting across three LLMs (e.g., ChatGPT, LLaMA, Qwen) for both topic classification and sentiment analysis.
+
+| **Model**      | **Sentiment F1 Score** | **Semantic F1 Score** |
+|----------------|------------------------|-----------------------|
+| ChatGPT        | 82.29%                 | 88.71%                |
+| Llama          | 82.87%                 | 84.99%                |
+| Qwen           | 82.66%                 | 83.72%                |
+
+For full results please refer to the [paper](paperlink).
