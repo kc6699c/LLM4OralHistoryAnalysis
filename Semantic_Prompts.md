@@ -32,22 +32,22 @@ The repository aims to preserve and share the stories of Japanese Americans who 
 5 - Movements for peace and justice 
 
 ### Definitions
-#### Topic 0: Biographic Information
+#### Category 0: Biographic Information
 This category includes sentences that can be considered as self-introductions, excluding names. Information about the narrators themselves, including birth stories, families (only their birthdays and stories about how they came to the U.S.), and places where they lived, are categorized here. Detailed explanations about communities go to Category 1. Some people were born in camps; such sentences should be labeled under Category 1, not Category 2.
 
-#### Topic 1: Life Before the Incarceration
+#### Category 1: Life Before the Incarceration
 This category includes stories such as how they or their (grand)parents came to the U.S. from Japan, their cultural life, jobs, school life, and relationships with neighbors and friends. Keywords include a story to come to the U.S., neighborhood, friend, job, school, community, and discrimination.
 
-#### Topic 2: Life During the Incarceration
+#### Category 2: Life During the Incarceration
 This topic includes stories about the day Japan attacked Pearl Harbor, interactions with the FBI, being sent to internment camps and life in the camps. The key sentence could be, “Can you tell us a bit about your memories of Pearl Harbor, December 7, 1941?” Keywords are: the day Japan attacked, the day the U.S. government announced the incarceration order, camp conditions, job, school, hobby, injustice, and discrimination. 
 
-#### Topic 3: Military Services 
+#### Category 3: Military Services 
 This category includes stories about the military achievements of Japanese Americans, drafts for the American or Japanese Army, the loyalty questionnaire for the army draft conducted in the camps, and any other relevant stories.
 
-#### Topic 4: Returning of Japanese Americans After WWII 
+#### Category 4: Returning of Japanese Americans After WWII 
 In this category, the key sentence is, “After you left the camp….” This includes stories about whether they were able to find jobs, difficulties in getting hired even as veterans, continued discrimination due to the Japanese attack, and where they worked (if it’s ‘JACL’, then label it Category 5). Key components include life after incarceration, job, and discrimination.
 
-#### Topic 5: Movements for Peace and Justice
+#### Category 5: Movements for Peace and Justice
 This category includes reflective thoughts on the redress and reparations movement for Japanese Americans, the perceived delays and impacts of these efforts, and broader societal lessons or lack thereof from the internment experience. It covers their thoughts on war or peace and participation in movements like the redress movement. Key components include movement, JACL, peace, and justice."
 
 
@@ -163,27 +163,27 @@ Legal challenges or acts of resistance occurring during the incarceration period
 ## Concise Prompt
 You're an expert in Japanese American incarceration history. Classify each transcript into one of the categories below based on its content. The sentences come from the Densho repository, which documents the forced relocation and internment of Japanese Americans during WWII. Return only the topic number. 
 
-#### 0 – Biographical Information
+#### Category 0 – Biographical Information
 Factual personal details: name, birthdate, birthplace (including camps), age of migration, religion, or family structure. No life story or social context.
 Keywords: born, name, family, religion, siblings, birthplace, father came at age X.
 
-#### 1 – Life Before Incarceration
+#### Category 1 – Life Before Incarceration
 Life in the U.S. before Pearl Harbor: daily life, schooling, work, discrimination, traditions, or immigration stories with context.
 Keywords: Daily life, education, culture, life context, discrimination, or policies affecting Japanese Americans before WWII. Pre-war struggles belong here unless explicitly tied to incarceration, before the war, racism, school, farming, church, learning Japanese ways, community, Alien Registration Act.
 
-#### 2 – Life During Incarceration 
+#### Category 2 – Life During Incarceration 
 From Pearl Harbor to camp release: arrest, exclusion orders, relocation, camp life, curfews, FBI raids, camp jobs/schools.
 Keywords: Pearl Harbor, sent to camp, evacuation, barracks, dust, curfew, mess hall, FBI, "assembly center".
 
-#### 3 – Military Services
+#### Category 3 – Military Services
 Military involvement: Events from Pearl Harbor (Dec 7, 1941) to the end of internment—FBI investigations, forced removals, camp life, legal defiance, and wartime struggles, volunteering, draft resistance, serving in U.S. or Japanese armies, loyalty questionnaire, 442nd, “no-no boys.”
 Keywords: army, drafted, 442nd, loyalty, service, enlist, resist, question 27 and 28, Decisions on U.S. or Japanese military service, the loyalty questionnaire, and post-war veteran experiences.
 
-#### 4 – Return After WWII
+#### Category 4 – Return After WWII
 Life after release: returning home, finding jobs, facing hostility, resettling in the U.S. or surviving post-war Japan.
 Keywords: after the war, return home, job search, rebuild, GI Bill, Adjusting after WWII—finding jobs, education, discrimination, and post-war survival in the U.S. or Japan.
 
-#### 5 – Movements for Peace and Justice
+#### Category 5 – Movements for Peace and Justice
 Post-war redress, advocacy, public recognition, reparations, and lessons from incarceration.
 Keywords: redress, apology, reparations, activism, hearings, Commission, injustice, Civil Liberties Act, Post-war redress efforts, legal challenges, and reflections on the incarceration legacy.
 
