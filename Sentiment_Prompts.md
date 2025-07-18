@@ -22,7 +22,7 @@ Based on the above sentence, can you please conduct the sentiment analysis? Clas
 
 ### Sentiment Definition
 
-Positive Definition: Statements that reflect appreciation, joy, gratitude, pride, fond memories, personal growth, or emotional/communal support—even amid hardship.
+Positive Definition: Statements that reflect appreciation, joy, gratitude, pride, fond memories, personal growth, or emotional/communal support even amid hardship.
 
 Neutral Definition: Objective or factual statements without strong emotional content—descriptions of events, routines, roles, timelines, or places that do not clearly express positive or negative feelings.
 
