@@ -1,8 +1,9 @@
-# Semantic Classification Prompts
+# Semantic Classification Prompt
 
 ## Foundational Prompt
 
 ### Instruction
+
 You're working on a project about the history of Japanese incarceration. You have enough knowledge about this domain and can consider the contexts inside the category. Classify transcripts in each row into the corresponding topic category.
 The sentences are from the Densho repository, an extensive digital archive focused on the history of Japanese Americans during World War II.
 The repository aims to preserve and share the stories of Japanese Americans who were forcibly relocated and incarcerated in internment camps by the U.S. government following the attack on Pearl Harbor. Return only the category number as outputs.
