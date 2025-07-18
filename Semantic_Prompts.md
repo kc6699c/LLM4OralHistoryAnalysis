@@ -8,7 +8,7 @@ You're working on a project about the history of Japanese incarceration. You hav
 The sentences are from the Densho repository, an extensive digital archive focused on the history of Japanese Americans during World War II.
 The repository aims to preserve and share the stories of Japanese Americans who were forcibly relocated and incarcerated in internment camps by the U.S. government following the attack on Pearl Harbor. Return only the category number as outputs.
 
-Categories:
+### Categories:
 0 - Biographic Information of the person 
 1 - Life before the Incarceration 
 2 - Life during the Incarceration 
@@ -16,14 +16,14 @@ Categories:
 4 - Returning of Japanese Americans after WWII 
 5 - Movements for peace and justice
 
-Structured Prompt
-Instruction
+## Structured Prompt
+### Instruction
 You're working on a project about the history of Japanese incarceration. You have enough knowledge about this domain and can consider the contexts inside the topic.
 Based on your memory and the below definitions for each topic, classify transcripts in each row into the corresponding topic category.
 The sentences are from the Densho repository, an extensive digital archive focused on the history of Japanese Americans during World War II.
 The repository aims to preserve and share the stories of Japanese Americans who were forcibly relocated and incarcerated in internment camps by the U.S. government following the attack on Pearl Harbor. Return only the topic numbers as outputs. Return only the topic category number as outputs. 
 
-Topic Categories
+### Topic Categories
 0 - Biographic Information of the person
 1 - Life before the Incarceration 
 2 - Life during the Incarceration 
@@ -31,8 +31,8 @@ Topic Categories
 4 - Returning of Japanese Americans after WWII
 5 - Movements for peace and justice 
 
-Definitions
-Topic 0: Biographic Information
+### Definitions
+#### Topic 0: Biographic Information
 This category includes sentences that can be considered as self-introductions, excluding names. Information about the narrators themselves, including birth stories, families (only their birthdays and stories about how they came to the U.S.), and places where they lived, are categorized here. Detailed explanations about communities go to Category 1. Some people were born in camps; such sentences should be labeled under Category 1, not Category 2.
 
 Topic 1: Life Before the Incarceration
