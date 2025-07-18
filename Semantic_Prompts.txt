@@ -1,4 +1,4 @@
-# Semantic Classification Prompts
+Semantic Classification Prompts
 
 Foundational Prompt
 
