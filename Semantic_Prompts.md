@@ -10,7 +10,7 @@ The repository aims to preserve and share the stories of Japanese Americans who 
 
 ### Categories:
 0 - Biographic Information of the person 
-1 - Life before the Incarceration 
+1 - Life Before Removal
 2 - Life during the Incarceration 
 3 - Military services 
 4 - Returning of Japanese Americans after WWII 
@@ -25,7 +25,7 @@ The repository aims to preserve and share the stories of Japanese Americans who 
 
 ### Topic Categories
 0 - Biographic Information of the person
-1 - Life before the Incarceration 
+1 - Life Before Removal
 2 - Life during the Incarceration 
 3 - Military services 
 4 - Returning of Japanese Americans after WWII
@@ -35,7 +35,7 @@ The repository aims to preserve and share the stories of Japanese Americans who 
 #### Category 0: Biographic Information
 This category includes sentences that can be considered as self-introductions, excluding names. Information about the narrators themselves, including birth stories, families (only their birthdays and stories about how they came to the U.S.), and places where they lived, are categorized here. Detailed explanations about communities go to Category 1. Some people were born in camps; such sentences should be labeled under Category 1, not Category 2.
 
-#### Category 1: Life Before the Incarceration
+#### Category 1: Life Before Removal
 This category includes stories such as how they or their (grand)parents came to the U.S. from Japan, their cultural life, jobs, school life, and relationships with neighbors and friends. Keywords include a story to come to the U.S., neighborhood, friend, job, school, community, and discrimination.
 
 #### Category 2: Life During the Incarceration
@@ -61,7 +61,7 @@ The repository aims to preserve and share the stories of Japanese Americans who 
 
 ### Topic Categories
 0 - Biographic Information of the person
-1 - Life before the Incarceration 
+1 - Life Before Removal
 2 - Life during the Incarceration 
 3 - Military services 
 4 - Returning of Japanese Americans after WWII
@@ -70,7 +70,7 @@ The repository aims to preserve and share the stories of Japanese Americans who 
 #### Category 0: Biographical Information
 Sentences in this category should focus on factual details about individuals, such as their name, birthdate, birthplace (including camps), family members, or religious affiliations. It also includes sentences mainly describing how old they were when they came to the U.S. (e.g., “My father came to the U.S. in 1905 at the age of fifteen with his father”) without a broader context about their lives or experiences in the new country, then they must be labeled here, otherwise in Category 1. If the sentence provides additional context about their life in the U.S., such as challenges, achievements, community involvement, family life, or education, it should be categorized in Category 1 instead. For example, sentences about establishing a business, adapting to a new culture, or interacting with the community belong in Category 1, even if they also include factual details.
 
-#### Category 1: Life Before the Incarceration
+#### Category 1: Life Before Removal
 This category includes sentences that describe how Japanese Americans or their families lived before the declaration of incarceration. It encompasses their daily lives, educational experiences, cultural practices, community dynamics, and the challenges they faced, such as racial discrimination or political tensions leading up to World War II. It also includes sentences about family customs, cultural teachings, and social hierarchies passed down within families, including Japanese traditions, values, and practices instilled by parents or elders. For example, reflections on how children were taught to follow Japanese customs, or observe traditional roles in the family fit into this category. Sentences that reflect societal attitudes, media portrayals, or policies (e.g., Alien Registration Act) before Pearl Harbor or the declaration of incarceration also belong here. If sentences primarily focus on factual details (e.g., names, birthdates, birthplaces, or religious affiliations) without additional life context, they should be categorized in Category 0 instead.
 Sentences also can be about the story of how they came to the U.S. but if they include factual biographical information (e.g., “My father was 19 when he came to the U.S.”) without a broader life context, it should be categorized in Category 0 instead.
 While sentences about pre-war discrimination, anti-Japanese sentiment, or the political environment may refer to the growing threat of war, they are still part of the pre-incarceration context and should remain in this category. Additionally, personal reflections on how societal attitudes evolved leading up to the war, or the ways these attitudes shaped Japanese Americans' lives, should be categorized here.
@@ -85,10 +85,10 @@ Category 2 focuses on events tied directly to incarceration and wartime struggle
 This category includes sentences that describe decisions about military service, whether individuals chose to join the U.S. Army, resisted conscription, or, in some cases, considered service in the Japanese Army. It also encompasses reflections on the loyalty questionnaire, particularly questions related to allegiance to the U.S. and military service, along with the consequences of their responses. Sentences in this category often explore societal perceptions and judgments of those who served, resisted, or expressed defiance, including terms like "yes-yes" or "no-no" and their broader implications.
 Additionally, this category includes sentences discussing the post-war benefits and opportunities that stemmed from military service, such as gaining employment, accessing education, or receiving recognition through veterans' programs. If a sentence primarily focuses on military service, the loyalty questionnaire, or the societal and personal impacts of military involvement, it should be categorized here rather than in Category 2. 
 
-#### Category 4: 
+#### Category 4: Returning of Japanese Americans after WWII
 This category must include sentences describing stories after the war ended, focusing on adjustments to life after leaving the camps or surviving in post-war Japan. These stories may consist of challenges like finding employment, gaining access to education, and dealing with societal treatment in the U.S. or Japan. Narratives about the survival strategies of those in Japan, such as participating in illegal markets or navigating post-war chaos, also fall under this category, as do interactions with American soldiers or the impact of post-war policies on civilians. Additionally, this category includes reflections on the emotional and societal aftermath of the war, such as shock at Japan's surrender, the chaos of rebuilding lives, and how people coped with these changes. Narratives by non-Japanese individuals about their perspectives on welcoming or rejecting Japanese Americans also belong here. 
 
-#### Category 5: 
+#### Category 5: Movements for peace and justice
 This category includes sentences describing redress movements and other activities aimed at seeking justice after the war ended. It focuses on efforts to address the wrongs of incarceration, how individuals and communities advocated for recognition, reparations, or historical acknowledgment, and reflections on the broader lessons learned from the incarceration experience. Sentences reflecting on the impact of these movements or the legacy of the incarceration history during interviews also belong here.
 Legal challenges or acts of resistance occurring during the incarceration period, such as defying curfews or incarceration orders, belong in Category 2 unless they are explicitly discussed in the context of post-war justice movements.
 
@@ -98,11 +98,11 @@ The history of Japanese Americans began with the arrival of the Issei, or “fir
 
 ### Key Words
 0 - Biographical Information: Factual details about individuals (e.g., name, birthdate, birthplace, family, religion).
-1 - Life Before Incarceration: Daily life, education, culture, life context, discrimination, or policies affecting Japanese Americans before WWII. Pre-war struggles belong here unless explicitly tied to incarceration.
+1 - Life Before Removal: Daily life, education, culture, life context, discrimination, or policies affecting Japanese Americans before WWII. Pre-war struggles belong here unless explicitly tied to incarceration.
 2 - Life During Incarceration: Events from Pearl Harbor (Dec 7, 1941) to the end of internment—FBI investigations, forced removals, camp life, legal defiance, and wartime struggles. 
 3 - Military Service: Decisions on U.S. or Japanese military service, the loyalty questionnaire, and post-war veteran experiences.
-4 - Post-War Return: Adjusting after WWII—finding jobs, education, discrimination, and post-war survival in the U.S. or Japan.
-5 - Movements for Justice: Post-war redress efforts, legal challenges, and reflections on the incarceration legacy.
+4 - Returning of Japanese Americans after WWII: Adjusting after WWII—finding jobs, education, discrimination, and post-war survival in the U.S. or Japan.
+5 - Movements for peace and justice: Post-war redress efforts, legal challenges, and reflections on the incarceration legacy.
 
 
 
@@ -115,7 +115,7 @@ The repository aims to preserve and share the stories of Japanese Americans who 
 
 ### Topic Categories
 0 - Biographic Information of the person
-1 - Life before the Incarceration 
+1 - Life Before Removal
 2 - Life during the Incarceration 
 3 - Military services 
 4 - Returning of Japanese Americans after WWII
@@ -124,7 +124,7 @@ The repository aims to preserve and share the stories of Japanese Americans who 
 #### Category 0: Biographical Information
 Sentences in this category should focus on factual details about individuals, such as their name, birthdate, birthplace (including camps), family members, or religious affiliations. It also includes sentences mainly describing how old they were when they came to the U.S. (e.g., “My father came to the U.S. in 1905 at the age of fifteen with his father”) without a broader context about their lives or experiences in the new country, then they must be labeled here, otherwise in Category 1. If the sentence provides additional context about their life in the U.S., such as challenges, achievements, community involvement, family life, or education, it should be categorized in Category 1 instead. For example, sentences about establishing a business, adapting to a new culture, or interacting with the community belong in Category 1, even if they also include factual details.
 
-#### Category 1: Life Before the Incarceration
+#### Category 1: Life Before Removal
 This category includes sentences that describe how Japanese Americans or their families lived before the declaration of incarceration. It encompasses their daily lives, educational experiences, cultural practices, community dynamics, and the challenges they faced, such as racial discrimination or political tensions leading up to World War II. It also includes sentences about family customs, cultural teachings, and social hierarchies passed down within families, including Japanese traditions, values, and practices instilled by parents or elders. For example, reflections on how children were taught to follow Japanese customs, or observe traditional roles in the family fit into this category. Sentences that reflect societal attitudes, media portrayals, or policies (e.g., Alien Registration Act) before Pearl Harbor or the declaration of incarceration also belong here. If sentences primarily focus on factual details (e.g., names, birthdates, birthplaces, or religious affiliations) without additional life context, they should be categorized in Category 0 instead.
 Sentences also can be about the story of how they came to the U.S. but if they include factual biographical information (e.g., “My father was 19 when he came to the U.S.”) without a broader life context, it should be categorized in Category 0 instead.
 While sentences about pre-war discrimination, anti-Japanese sentiment, or the political environment may refer to the growing threat of war, they are still part of the pre-incarceration context and should remain in this category. Additionally, personal reflections on how societal attitudes evolved leading up to the war, or the ways these attitudes shaped Japanese Americans' lives, should be categorized here.
@@ -149,11 +149,11 @@ Legal challenges or acts of resistance occurring during the incarceration period
 
 ### Key Words
 0 - Biographical Information: Factual details about individuals (e.g., name, birthdate, birthplace, family, religion).
-1 - Life Before Incarceration: Daily life, education, culture, life context, discrimination, or policies affecting Japanese Americans before WWII. Pre-war struggles belong here unless explicitly tied to incarceration.
+1 - Life Before Removal: Daily life, education, culture, life context, discrimination, or policies affecting Japanese Americans before WWII. Pre-war struggles belong here unless explicitly tied to incarceration.
 2 - Life During Incarceration: Events from Pearl Harbor (Dec 7, 1941) to the end of internment—FBI investigations, forced removals, camp life, legal defiance, and wartime struggles. 
 3 - Military Service: Decisions on U.S. or Japanese military service, the loyalty questionnaire, and post-war veteran experiences.
-4 - Post-War Return: Adjusting after WWII—finding jobs, education, discrimination, and post-war survival in the U.S. or Japan.
-5 - Movements for Justice: Post-war redress efforts, legal challenges, and reflections on the incarceration legacy.
+4 - Returning of Japanese Americans after WWII: Adjusting after WWII—finding jobs, education, discrimination, and post-war survival in the U.S. or Japan.
+5 - Movements for peace and justice: Post-war redress efforts, legal challenges, and reflections on the incarceration legacy.
 
 
 
@@ -167,11 +167,11 @@ You're an expert in Japanese American incarceration history. Classify each trans
 Factual personal details: name, birthdate, birthplace (including camps), age of migration, religion, or family structure. No life story or social context.
 Keywords: born, name, family, religion, siblings, birthplace, father came at age X.
 
-#### Category 1 – Life Before Incarceration
+#### Category 1 – Life Before Removal
 Life in the U.S. before Pearl Harbor: daily life, schooling, work, discrimination, traditions, or immigration stories with context.
 Keywords: Daily life, education, culture, life context, discrimination, or policies affecting Japanese Americans before WWII. Pre-war struggles belong here unless explicitly tied to incarceration, before the war, racism, school, farming, church, learning Japanese ways, community, Alien Registration Act.
 
-#### Category 2 – Life During Incarceration 
+#### Category 2 – Life During the Incarceration 
 From Pearl Harbor to camp release: arrest, exclusion orders, relocation, camp life, curfews, FBI raids, camp jobs/schools.
 Keywords: Pearl Harbor, sent to camp, evacuation, barracks, dust, curfew, mess hall, FBI, "assembly center".
 
@@ -179,7 +179,7 @@ Keywords: Pearl Harbor, sent to camp, evacuation, barracks, dust, curfew, mess h
 Military involvement: Events from Pearl Harbor (Dec 7, 1941) to the end of internment—FBI investigations, forced removals, camp life, legal defiance, and wartime struggles, volunteering, draft resistance, serving in U.S. or Japanese armies, loyalty questionnaire, 442nd, “no-no boys.”
 Keywords: army, drafted, 442nd, loyalty, service, enlist, resist, question 27 and 28, Decisions on U.S. or Japanese military service, the loyalty questionnaire, and post-war veteran experiences.
 
-#### Category 4 – Return After WWII
+#### Category 4 – Returning of Japanese Americans After WWII
 Life after release: returning home, finding jobs, facing hostility, resettling in the U.S. or surviving post-war Japan.
 Keywords: after the war, return home, job search, rebuild, GI Bill, Adjusting after WWII—finding jobs, education, discrimination, and post-war survival in the U.S. or Japan.
 
