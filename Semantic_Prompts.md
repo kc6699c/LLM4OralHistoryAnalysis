@@ -9,7 +9,7 @@ The sentences are from the Densho repository, an extensive digital archive focus
 The repository aims to preserve and share the stories of Japanese Americans who were forcibly relocated and incarcerated in internment camps by the U.S. government following the attack on Pearl Harbor. Return only the category number as outputs.
 
 ### Categories:
-0 - Biographic Information of the person 
+0 - Biographic Information
 1 - Life Before Removal
 2 - Life during the Incarceration 
 3 - Military services 
@@ -60,7 +60,7 @@ The sentences are from the Densho repository, an extensive digital archive focus
 The repository aims to preserve and share the stories of Japanese Americans who were forcibly relocated and incarcerated in internment camps by the U.S. government following the attack on Pearl Harbor. Return only the category number as outputs.
 
 ### Topic Categories
-0 - Biographic Information of the person
+0 - Biographic Information
 1 - Life Before Removal
 2 - Life during the Incarceration 
 3 - Military services 
@@ -114,7 +114,7 @@ The sentences are from the Densho repository, an extensive digital archive focus
 The repository aims to preserve and share the stories of Japanese Americans who were forcibly relocated and incarcerated in internment camps by the U.S. government following the attack on Pearl Harbor. Return only the topic numbers as outputs. Return only the topic category number as outputs. 
 
 ### Topic Categories
-0 - Biographic Information of the person
+0 - Biographic Information
 1 - Life Before Removal
 2 - Life during the Incarceration 
 3 - Military services 
